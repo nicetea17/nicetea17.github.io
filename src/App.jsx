@@ -139,10 +139,10 @@ function TypewriterRotator() {
 
 function AboutSection() {
   const myImages = [
-    "/src/assets/Untitled design.JPG",
-    "/src/assets/D3F589E0-1583-487A-A671-4BC7C5729615.JPG",
-    "src/assets/IMG_0886 2.JPG",
-    "/src/assets/IMG_3842.JPG"
+    "Untitled design.JPG",
+    "D3F589E0-1583-487A-A671-4BC7C5729615.JPG",
+    "IMG_0886 2.JPG",
+    "IMG_3842.JPG"
   ];
 
   return (
